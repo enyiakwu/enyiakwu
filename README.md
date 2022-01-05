@@ -1,4 +1,4 @@
-### 👋 Hey, I'm Enyi, a cloud engineer [enyinnayaakwu.com] my website needs to be updated 😉
+### 👋 Hey, I'm Enyi, a cloud engineer [enyinnayaakwu.com] site needs to be updated 😉
 
 ## I am a computer 💻 professional, developer and life student!
 

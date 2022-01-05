@@ -9,6 +9,9 @@
 - 📰 Fun fact: I love to draw (creative designs), cycling and swimming 🏊‍♂️
 - 📫 How to reach me [LinkedIn is the best channel](https://www.linkedin.com/in/enyiakwu)
 
+
+<!--- [![Enyinnaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=enyiakwu)](https://github.com/enyiakwu/github-readme-stats)--->
+
 <!---
 enyiakwu/enyiakwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

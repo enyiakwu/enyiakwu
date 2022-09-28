@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Enyi, a cloud engineer [enyinnayaakwu.com] site needs to be updated 😉
 
-## I am a computer 💻 professional, software engineer and life student!
+## I am a software engineer computer 💻 professional, and life student!
 
 - 🏗️ I'm currently automating processes at the best remote company [CrossOver for work](https://www.crossover.com)
 - 👀 I’m interested in cloud technologies, infrastructure automation and integrations and the adoption of DevOps practices

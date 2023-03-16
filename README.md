@@ -1,4 +1,4 @@
-### 👋 Hey, I'm Enyi, a cloud engineer [enyinnayaakwu.com] site needs to be updated 😉
+### 👋 Hey, I'm Enyi, a software developer and cloud engineer 😉
 
 ## I am a software 💻 engineer, and life student!
 

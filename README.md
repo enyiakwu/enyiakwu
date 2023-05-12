@@ -1,4 +1,4 @@
-### 👋 Hey, I'm Enyi, a software developer and cloud engineer 😉
+### 👋 Hey, I'm Maxwell, a software developer and cloud engineer 😉
 
 ## I am a software 💻 engineer, and life student!
 
@@ -7,7 +7,7 @@
 - 🌱 I'm currently learning everything, everyday (a life student remember 👆 )
 - 💞️ 2022 Goals: Contribute more to Open Source projects...
 - 📰 Fun fact: I love to draw (creative designs), cycling and swimming 🏊‍♂️
-- 📫 How to reach me [LinkedIn is the best channel](https://www.linkedin.com/in/enyiakwu)
+- 📫 How to reach me [LinkedIn is the best channel](https://www.linkedin.com/in/maxakwu)
 
 
 <!--- [![Enyinnaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=enyiakwu)](https://github.com/enyiakwu/github-readme-stats)--->

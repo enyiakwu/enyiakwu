@@ -5,7 +5,7 @@
 - 🏗️ I'm currently automating processes at the best remote company [CrossOver for work](https://www.crossover.com)
 - 👀 I’m interested in cloud technologies, infrastructure automation and integrations and the adoption of DevOps practices
 - 🌱 I'm currently learning everything, everyday (a life student remember 👆 )
-- 💞️ 2022 Goals: Contribute more to Open Source projects...
+- 💞️ 2023 Goals: Contribute more to Open Source projects...
 - 📰 Fun fact: I love to draw (creative designs), cycling and swimming 🏊‍♂️
 - 📫 How to reach me [LinkedIn is the best channel](https://www.linkedin.com/in/maxakwu)
 
